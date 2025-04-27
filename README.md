@@ -69,5 +69,3 @@ The analysis workflow includes:
 ## Contributing
 
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue.
-# visium_hd_basics
-# visium_hd_basics
